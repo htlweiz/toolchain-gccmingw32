@@ -1,0 +1,21 @@
+{
+  "name": "toolchain-gccmingw32",
+  "version": "1.50100.2",
+  "description": "MinGW - Minimalist GNU for Windows",
+  "keywords": [
+    "build tools",
+    "compiler",
+    "assembler",
+    "linker",
+    "preprocessor"
+  ],
+  "homepage": "http://www.mingw.org",
+  "system": [
+    "windows_amd64",
+    "windows_x86"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://osdn.net/projects/mingw/scm/git/mingw-dist"
+  }
+}
